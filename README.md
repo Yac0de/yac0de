@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yanis</h1>
 <h3 align="center">I'm a passionate developer studying at 42</h3>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
@@ -62,10 +62,11 @@
   </a>
 </p>
 
+---
 
-<h3 align="left">42 Cursus progress:</h3>
+<h3 align="left">📂 42 Cursus progress:</h3>
 
-### Common Core
+### 🧩 Common Core
 
 | #  | Project         |     | #  | Project         |     | #  | Project         |     |
 |----|-----------------|-----|----|-----------------|-----|----|-----------------|-----|
@@ -79,9 +80,8 @@
 | 8  | [Philosophers](https://github.com/Yac0de/Philosophers) | ✅ | 17 | [CPP05](https://github.com/Yac0de/CPP05) | ✅ |     |                     |     |
 | 9  | [minishell](https://github.com/Yac0de/minishell) | ✅ | 18 | [CPP06](https://github.com/Yac0de/CPP06) | ✅ |     |                     |     |
 
----
 
-### System & Kernel
+### ⚙️ System & Kernel
 
 | #  | Project                                  |     |
 |----|------------------------------------------|-----|
