@@ -36,4 +36,4 @@
 | #  | Project                                            |     |
 |----|----------------------------------------------------|-----|
 | 1  | [Snow Crash](https://github.com/Yac0de/SnowCrash)  | ✅ |
-| 2  | [Snow Crash](https://github.com/Yac0de/Rainfall)  | ✅ |
+| 2  | [Rainfall](https://github.com/Yac0de/Rainfall)  | ✅ |
