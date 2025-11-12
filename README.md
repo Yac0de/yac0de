@@ -38,4 +38,4 @@
 | 1  | [Snow Crash](https://github.com/Yac0de/SnowCrash)  | ✅ |
 | 2  | [Rainfall](https://github.com/Yac0de/Rainfall)  | ✅ |
 | 3  | [Darkly](https://github.com/Yac0de/Darkly)  | ✅ |
-| 4  | [Darkly](https://github.com/Yac0de/woody_woodpacker)  | ✅ |
+| 4  | [Woody Woodpacker](https://github.com/Yac0de/woody_woodpacker)  | ✅ |
